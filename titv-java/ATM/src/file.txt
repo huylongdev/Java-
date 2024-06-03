@@ -1,0 +1,15 @@
+TRAN001,Card01,16/07/2022,200,Rut tien ATM
+TRAN002,Card02,11/08/2022,456,Thanh toan tai Big C
+TRAN003,Card01,10/06/2022,100,Rut tien ATM
+TRAN004,Card03,12/09/2022,150,Thanh toan tai Lotte Cinema
+TRAN005,Card02,12/09/2022,100,Rut tien ATM
+TRAN006,Card04,15/09/2022,90,Chuyen khoan
+TRAN007,Card07,21/09/2022,1000,Thanh toan tai Kichikichi
+TRAN008,Card08,22/09/2022,20,Dong tien phat
+TRAN009,Card03,30/09/2022,30,Mua ve xem phim
+TRAN010,Card04,01/10/2022,50,Rut tien ATM
+TRAN011,Card05,05/10/2022,900,Chuyen khoan
+TRAN012,Card04,10/10/2022,1000,Thanh toan hoc phi FPT
+TRAN013,Card03,12/10/2022,200,Thanh toan tra gop
+TRAN014,Card06,14/10/2022,500,Tra tien no
+TRAN015,Card01,15/10/2022,1000,Thanh toan hoc phi FPT

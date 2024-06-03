@@ -1,0 +1,10 @@
+TRAN001,Card01,16/07/2022,200,Rut tien tai cay ATM
+TRAN002,Card02,11/08/2022,456,Thanh toan Co-opMart
+TRAN003,Card01,10/06/2022,100,Rut tien tru so ATM
+TRAN004,Card03,12/09/2022,150,Tra hoc phi FPT
+TRAN005,Card02,12/09/2022,100,Thanh toan tien dien
+TRAN006,Card04,15/09/2022,90,Chuyen khoan
+TRAN007,Card07,21/09/2022,1000,Thanh toan tai Restaurant
+TRAN008,Card08,22/09/2022,20,Tra tien do xe
+TRAN009,Card03,30/09/2022,30,Thanh toan tien dien
+
